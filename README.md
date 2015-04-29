@@ -121,8 +121,8 @@ You guys spent a lot of time with HTML and CSS in the last class, but we havenâ€
 	+ You can see all the code for a demo site in the `index.html` file included in the [https://github.com/flatiron-school-curriculum/hs-bootstrap-walkthrough](https://github.com/flatiron-school-curriculum/hs-bootstrap-walkthrough)  repository. This is a very simple implementation of Bootstrap's features. Have fun exploring the different Bootstrap elements and incorporating them into your projects. 
 	+ Remember, the key to Bootstrapping your site is adding the Bootstrap classes to HTML tags that enclose your content.
 + Resources
-[http://getbootstrap.com](http://getbootstrap.com)
-[http://bootstrapbay.com/blog/bootstrap-3-carousel-tutorial](http://bootstrapbay.com/blog/bootstrap-3-carousel-tutorial) 
+	+ [http://getbootstrap.com](http://getbootstrap.com)
+	+ [http://bootstrapbay.com/blog/bootstrap-3-carousel-tutorial](http://bootstrapbay.com/blog/bootstrap-3-carousel-tutorial) 
 
 <b>UX/UI</b>
 
