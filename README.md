@@ -146,3 +146,5 @@ You guys spent a lot of time with HTML and CSS in the last class, but we havenâ€
 	+ Ask lots of questions
 	+ Be open to their feedback - And REMEMBER people are commenting on your work and not on YOU as a person - donâ€™t take it personally.
 
+
+<a href='https://learn.co/lessons/hs-advanced-web-design-teachers-guide-bootstrap' data-visibility='hidden'>View this lesson on Learn.co</a>
